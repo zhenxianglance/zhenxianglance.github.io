@@ -10,4 +10,43 @@ author_profile: true
 * [Test-Time Detection of Backdoor Triggers for Poisoned Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9746573)<br>
   Xi Li, **Zhen Xiang**, David J. Miller, George Kesidis<br>
   IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.
+  
+* [Detecting Backdoor Attacks Against Point Cloud Classifiers](https://ieeexplore.ieee.org/abstract/document/9747194)<br>
+  **Zhen Xiang**, David J. Miller, Siheng Chen, Xi Li, George Kesidis<br>
+  IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.
 
+* [Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios](https://arxiv.org/pdf/2201.08474.pdf)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  International Conference on Learning Representations (**ICLR**), 2022.
+
+* [L-red: Efficient post-training detection of imperceptible backdoor attacks without access to the training set](https://arxiv.org/pdf/2010.09987.pdf)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2021.
+
+* [A Backdoor Attack against 3D Point Cloud Classifiers](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_A_Backdoor_Attack_Against_3D_Point_Cloud_Classifiers_ICCV_2021_paper.pdf)<br>
+  **Zhen Xiang**, David J. Miller, Siheng Chen, Xi Li, George Kesidis<br>
+  International Conference on Computer Vision (**ICCV**), 2021.
+  
+* [A Scalable Mixture Model Based Defense against Data Poisoning Attacks on Classifiers](https://link.springer.com/chapter/10.1007/978-3-030-61725-7_31)<br>
+  Xi Li, David J. Miller, **Zhen Xiang**, George Kesidis<br>
+  International Conference on Dynamic Data Driven Application Systems (**DDDAS**), 2020.
+
+* [Revealing Perceptible Backdoors in DNNs, without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic](https://ieeexplore.ieee.org/abstract/document/9231861)<br>
+  **Zhen Xiang**, David J. Miller, Hang Wang, George Kesidis<br>
+  IEEE 30th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2020.
+
+* [Revealing backdoors, post-training, in DNN classifiers via novel inference on optimized perturbations inducing group misclassification](https://ieeexplore.ieee.org/abstract/document/9054581)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2020.
+
+* [A Benchmark Study of Backdoor Data Poisoning Defenses for Deep Neural Network Classifiers and a Novel Defense](https://ieeexplore.ieee.org/abstract/document/8918908)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE 30th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2019.
+  
+* [Locally Optimal, Delay-Tolerant Predictive Source Coding](https://ieeexplore.ieee.org/abstract/document/8362243)<br>
+  **Zhen Xiang**, David J. Miller<br>
+  52nd Annual Conference on Information Sciences and Systems (**CISS**), 2018.
+  
+  
+  
+  
