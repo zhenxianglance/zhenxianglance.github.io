@@ -46,7 +46,23 @@ author_profile: true
 * [Locally Optimal, Delay-Tolerant Predictive Source Coding](https://ieeexplore.ieee.org/abstract/document/8362243)<br>
   **Zhen Xiang**, David J. Miller<br>
   52nd Annual Conference on Information Sciences and Systems (**CISS**), 2018.
+
+
+### Journal Papers
+
+* [Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing](https://www.sciencedirect.com/science/article/pii/S0167404821001048)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  Computers & Security, 2021.
   
-  
-  
+* [Detecting Scene-Plausible Perceptible Backdoors in Trained DNNs Without Access to the Training Set](https://direct.mit.edu/neco/article-abstract/33/5/1329/97494/Detecting-Scene-Plausible-Perceptible-Backdoors-in)<br>
+  **Zhen Xiang**, David J. Miller, Hang Wang, George Kesidis<br>
+  Neural Computation, 2021.
+
+* [Detection of Backdoors in Trained Classifiers Without Access to the Training Set](https://ieeexplore.ieee.org/abstract/document/9296553)<br>
+  **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2020.
+
+* [Adversarial Learning Targeting Deep Neural Network Classification: A Comprehensive Review of Defenses Against Attacks](https://ieeexplore.ieee.org/abstract/document/9013065)<br>
+  David J. Miller, **Zhen Xiang**, George Kesidis<br>
+  Proceedings of the IEEE, 2020.
   
