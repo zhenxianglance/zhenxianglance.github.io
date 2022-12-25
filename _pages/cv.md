@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here](https://drive.google.com/file/d/1QzBuzItsk4YAlIGf-r8dQLq98O0rmzMq/view?usp=share_link)
+Please find my CV [here](https://drive.google.com/file/d/1QzBuzItsk4YAlIGf-r8dQLq98O0rmzMq/view?usp=share_link).
 
