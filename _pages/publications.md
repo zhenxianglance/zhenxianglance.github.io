@@ -41,7 +41,7 @@ author_profile: true
 
 * [A Benchmark Study of Backdoor Data Poisoning Defenses for Deep Neural Network Classifiers and a Novel Defense](https://ieeexplore.ieee.org/abstract/document/8918908)<br>
   **Zhen Xiang**, David J. Miller, George Kesidis<br>
-  IEEE 30th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2019.
+  IEEE 29th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2019.
   
 * [Locally Optimal, Delay-Tolerant Predictive Source Coding](https://ieeexplore.ieee.org/abstract/document/8362243)<br>
   **Zhen Xiang**, David J. Miller<br>
