@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Book Chapters
+
+* [Adversarial Learning and Secure AI](https://www.cambridge.org/highereducation/books/adversarial-learning-and-secure-ai/59D7D2CCDD0F2E54FF7F8CAD5DFC0C97#overview)<br>
+  David J. Miller, **Zhen Xiang**, George Kesidis<br>
+  Cambridge University Press, 2023.
+
 ### Conference Papers
 
 * [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs)<br>
