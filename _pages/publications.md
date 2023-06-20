@@ -7,6 +7,10 @@ author_profile: true
 
 ### Conference Papers
 
+* [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs)<br>
+  **Zhen Xiang**, Zidi Xiong, Bo Li<br>
+  IEEE International Conference on Machine Learning (**ICML**), 2023.
+
 * [Test-Time Detection of Backdoor Triggers for Poisoned Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9746573)<br>
   Xi Li, **Zhen Xiang**, David J. Miller, George Kesidis<br>
   IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022.
