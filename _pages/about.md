@@ -19,4 +19,5 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 News
 ======
 * 5/2023: Our paper [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs) is accepted by ICML2023!
+* 4/2023: Our 
 * 12/2022: We are organizing the first [IEEE Trojan Removal Competition](https://www.trojan-removal.com/).
