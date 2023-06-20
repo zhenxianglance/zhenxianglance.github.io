@@ -18,4 +18,5 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 
 News
 ======
+* 5/2023: Our paper 
 * 12/2022: We are orgnaizing the first [IEEE Trojan Removal Competition](https://www.trojan-removal.com/).
