@@ -18,6 +18,7 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 
 News
 ======
+* 7/2023: Our paper [MMBD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://arxiv.org/abs/2205.06900) is accepted by IEEE S&P 2024!
 * 5/2023: Our paper [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs) is accepted by ICML2023!
 * 4/2023: Our book [Adversarial Learning and Secure AI](https://www.cambridge.org/highereducation/books/adversarial-learning-and-secure-ai/59D7D2CCDD0F2E54FF7F8CAD5DFC0C97#overview) is accepted by the Cambridge University Press and will be released in December 2023.
 * 12/2022: We are organizing the first [IEEE Trojan Removal Competition](https://www.trojan-removal.com/).
