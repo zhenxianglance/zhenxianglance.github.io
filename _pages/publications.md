@@ -23,7 +23,7 @@ author_profile: true
 
 * A BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers<br>
   Xi Li, **Zhen Xiang**, David J. Miller, George Kesidis<br>
-  IEEE 33rd International Workshop on Machine Learning for Signal Processing (**MLSP**), 2023.
+  IEEE International Workshop on Machine Learning for Signal Processing (**MLSP**), 2023.
 
 * [Training Set Cleansing of Backdoor Poisoning by Self-Supervised Representation Learning](https://ieeexplore.ieee.org/document/10097244/authors#authors)<br>
   Hang Wang, Sahar Karami, Ousmane Dia, Hippolyt Ritter, Ehsan Emamjomeh-Zadeh, Jiahui Chen, **Zhen Xiang**, David J. Miller, George Kesidis<br>
@@ -55,7 +55,7 @@ author_profile: true
 
 * [Revealing Perceptible Backdoors in DNNs, without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic](https://ieeexplore.ieee.org/abstract/document/9231861)<br>
   **Zhen Xiang**, David J. Miller, Hang Wang, George Kesidis<br>
-  IEEE 30th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2020.
+  IEEE International Workshop on Machine Learning for Signal Processing (**MLSP**), 2020.
 
 * [Revealing backdoors, post-training, in DNN classifiers via novel inference on optimized perturbations inducing group misclassification](https://ieeexplore.ieee.org/abstract/document/9054581)<br>
   **Zhen Xiang**, David J. Miller, George Kesidis<br>
@@ -63,7 +63,7 @@ author_profile: true
 
 * [A Benchmark Study of Backdoor Data Poisoning Defenses for Deep Neural Network Classifiers and a Novel Defense](https://ieeexplore.ieee.org/abstract/document/8918908)<br>
   **Zhen Xiang**, David J. Miller, George Kesidis<br>
-  IEEE 29th International Workshop on Machine Learning for Signal Processing (**MLSP**), 2019.
+  IEEE International Workshop on Machine Learning for Signal Processing (**MLSP**), 2019.
   
 * [Locally Optimal, Delay-Tolerant Predictive Source Coding](https://ieeexplore.ieee.org/abstract/document/8362243)<br>
   **Zhen Xiang**, David J. Miller<br>
