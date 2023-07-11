@@ -21,6 +21,10 @@ author_profile: true
   **Zhen Xiang**, Zidi Xiong, Bo Li<br>
   IEEE International Conference on Machine Learning (**ICML**), 2023.
 
+* [A BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers]<br>
+  Xi Li, **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE 33rd International Workshop on Machine Learning for Signal Processing (**MLSP**), 2023.
+
 * [Training Set Cleansing of Backdoor Poisoning by Self-Supervised Representation Learning](https://ieeexplore.ieee.org/document/10097244/authors#authors)<br>
   Hang Wang, Sahar Karami, Ousmane Dia, Hippolyt Ritter, Ehsan Emamjomeh-Zadeh, Jiahui Chen, **Zhen Xiang**, David J. Miller, George Kesidis<br>
   IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023.
