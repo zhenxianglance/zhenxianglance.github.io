@@ -13,6 +13,10 @@ author_profile: true
 
 ### Conference Papers
 
+* [MMBD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic]([https://openreview.net/forum?id=t0ozPUGnBs](https://arxiv.org/abs/2205.06900))<br>
+  Hang Wang, **Zhen Xiang** (co-first author), David J. Miller, George Kesidis<br>
+  IEEE Symposium on Security and Privacy (**S&P**), 2024.
+
 * [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs)<br>
   **Zhen Xiang**, Zidi Xiong, Bo Li<br>
   IEEE International Conference on Machine Learning (**ICML**), 2023.
