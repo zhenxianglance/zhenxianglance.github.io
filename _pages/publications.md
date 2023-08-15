@@ -7,7 +7,7 @@ author_profile: true
 
 ### Book Chapters
 
-* [Adversarial Learning and Secure AI]([https://www.cambridge.org/highereducation/books/adversarial-learning-and-secure-ai/59D7D2CCDD0F2E54FF7F8CAD5DFC0C97#overview](https://www.cambridge.org/highereducation/books/adversarial-learning-and-secure-ai/79986B5D288511757C2A95D71262E039#overview))<br>
+* [Adversarial Learning and Secure AI](https://www.cambridge.org/highereducation/books/adversarial-learning-and-secure-ai/79986B5D288511757C2A95D71262E039#overview)<br>
   David J. Miller, **Zhen Xiang**, George Kesidis<br>
   Cambridge University Press, 2023.
 
