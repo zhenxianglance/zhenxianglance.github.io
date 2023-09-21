@@ -17,7 +17,7 @@ author_profile: true
   Hang Wang, **Zhen Xiang** (co-first author), David J. Miller, George Kesidis<br>
   IEEE Symposium on Security and Privacy (**S&P**), 2024.
 
-* [CBD: A Certified Backdoor Detector Based on Local Dominant Probability]<br>
+* CBD: A Certified Backdoor Detector Based on Local Dominant Probability<br>
   **Zhen Xiang**, Zidi Xiong, Bo Li<br>
   Advances in Neural Information Processing Systems (**NeurIPS**), 2023.
 
