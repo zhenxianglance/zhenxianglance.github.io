@@ -17,6 +17,10 @@ author_profile: true
   Hang Wang, **Zhen Xiang** (co-first author), David J. Miller, George Kesidis<br>
   IEEE Symposium on Security and Privacy (**S&P**), 2024.
 
+* [CBD: A Certified Backdoor Detector Based on Local Dominant Probability]<br>
+  **Zhen Xiang**, Zidi Xiong, Bo Li<br>
+  Advances in Neural Information Processing Systems (**NeurIPS**), 2023.
+
 * [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs)<br>
   **Zhen Xiang**, Zidi Xiong, Bo Li<br>
   IEEE International Conference on Machine Learning (**ICML**), 2023.
