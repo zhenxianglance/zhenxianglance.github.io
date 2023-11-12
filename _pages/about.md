@@ -18,7 +18,9 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 
 News
 ======
-* 9/2023: Our paper CBD: A Certified Backdoor Detector Based on Local Dominant Probability is accepted by NeurIPS 2023!
+* 11/2023: I will be serving as an Associated Editor for IEEE TCSVT from 1/2024 to 12/2025.
+* 11/2023: Our paper [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/forum?id=S4cYxINzjp&noteId=imQBDcoIr5) is accepted by NeurIPS 2023 BUGS Workshop for oral presentation!
+* 9/2023: Our paper [CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://arxiv.org/abs/2310.17498) is accepted by NeurIPS 2023!
 * 7/2023: Our paper [MMBD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://arxiv.org/abs/2205.06900) is accepted by IEEE S&P 2024!
 * 7/2023: We are organizing [The Trojan Detection Challenge 2023 (LLM Edition)](https://trojandetection.ai).
 * 5/2023: Our paper [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://openreview.net/forum?id=t0ozPUGnBs) is accepted by ICML2023!
