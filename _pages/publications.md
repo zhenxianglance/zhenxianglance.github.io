@@ -13,6 +13,10 @@ author_profile: true
 
 ### Conference Papers
 
+* [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/pdf?id=c93SBwz1Ma)<br>
+  **Zhen Xiang**, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li<br>
+  International Conference on Learning Representations (**ICLR**), 2024.
+
 * [MMBD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://arxiv.org/abs/2205.06900)<br>
   Hang Wang, **Zhen Xiang** (co-first author), David J. Miller, George Kesidis<br>
   IEEE Symposium on Security and Privacy (**S&P**), 2024.
