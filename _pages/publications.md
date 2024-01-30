@@ -80,6 +80,10 @@ author_profile: true
 
 ### Journal Papers
 
+* BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study<br>
+  Xi Li, David J. Miller, **Zhen Xiang**, George Kesidis<br>
+  IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.
+
 * [Reverse Engineering Imperceptible Backdoor Attacks on Deep Neural Networks for Detection and Training Set Cleansing](https://www.sciencedirect.com/science/article/pii/S0167404821001048)<br>
   **Zhen Xiang**, David J. Miller, George Kesidis<br>
   Computers & Security, 2021.
