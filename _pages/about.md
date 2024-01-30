@@ -18,7 +18,7 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 
 News
 ======
-* 1/2024: Our paper [BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study] is accepted by TKDE!
+* 1/2024: Our paper BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study is accepted by TKDE!
 * 1/2024: Our paper [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/abs/2401.12242) is accepted by ICLR 2024!
 * 11/2023: I will be serving as an Associated Editor for IEEE TCSVT from 1/2024 to 12/2025.
 * 9/2023: Our paper [CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://arxiv.org/abs/2310.17498) is accepted by NeurIPS 2023!
