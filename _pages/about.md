@@ -14,7 +14,7 @@ I am a postdoc affiliated with the Secure Learning Lab (SLL) led by [Prof Bo Li]
 
 I work on trustworthy machine learning, with the main focus on backdoor attacks and defenses. My long-term goal is to develop theory-based defense approaches and security standards for safety-sensitive applications.
 
-<span style="color:red"> ** I will join the School of Computing, University of Georgia, as an Assistant Professor in Fall 2024!** </span>
+** <span style="color:red"> I will join the School of Computing, University of Georgia, as an Assistant Professor in Fall 2024! </span>**
 
 News
 ======
