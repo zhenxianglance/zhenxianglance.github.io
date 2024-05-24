@@ -18,6 +18,8 @@ I work on trustworthy machine learning, with the main focus on backdoor attacks 
 
 News
 ======
+* 5/2024: Our proposal for "[The LLM and Agent Safety Competition 2024](https://www.llmagentsafetycomp24.com/)" is accepted to the competition track NeurIPS 2024! The website will be ready soon.
+* 5/2024: Our paper [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/pdf/2402.11753) is accepted by ACL 2024! Congrats to Fengqing!
 * 1/2024: Our paper 'BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study' is accepted by TKDE!
 * 1/2024: Our paper [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/abs/2401.12242) is accepted by ICLR 2024!
 * 11/2023: I will be serving as an Associated Editor for IEEE TCSVT from 1/2024 to 12/2025.
