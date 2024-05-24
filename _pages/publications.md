@@ -13,6 +13,10 @@ author_profile: true
 
 ### Conference Papers
 
+* [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://openreview.net/pdf?id=c93SBwz1Ma)<br>
+  Fengqing Jiang, Zhangchen Xu, Luyao Niu, **Zhen Xiang**, Bhaskar Ramasubramanian, Bo Li, Radha Poovendran<br>
+  The Association for Computational Linguistics (**ACL**), 2024.
+
 * [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/pdf?id=c93SBwz1Ma)<br>
   **Zhen Xiang**, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li<br>
   International Conference on Learning Representations (**ICLR**), 2024.
