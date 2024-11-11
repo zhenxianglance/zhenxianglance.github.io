@@ -13,7 +13,7 @@ author_profile: true
 
 ### Conference Papers
 
-* [Improved activation clipping for universal backdoor mitigation and test-time detection]([https://arxiv.org/abs/2205.06900](https://ieeexplore.ieee.org/abstract/document/10734765)<br>
+* [Improved activation clipping for universal backdoor mitigation and test-time detection](https://ieeexplore.ieee.org/abstract/document/10734765)<br>
   Hang Wang, **Zhen Xiang**, David J. Miller, George Kesidis<br>
   IEEE International Workshop on Machine Learning for Signal Processing (**MLSP**), 2024.
 
