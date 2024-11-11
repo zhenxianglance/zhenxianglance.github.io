@@ -13,6 +13,10 @@ author_profile: true
 
 ### Conference Papers
 
+* [Improved activation clipping for universal backdoor mitigation and test-time detection]([https://arxiv.org/abs/2205.06900](https://ieeexplore.ieee.org/abstract/document/10734765)<br>
+  Hang Wang, **Zhen Xiang**, David J. Miller, George Kesidis<br>
+  IEEE International Workshop on Machine Learning for Signal Processing (**MLSP**), 2024.
+
 * [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://openreview.net/pdf?id=c93SBwz1Ma)<br>
   Fengqing Jiang, Zhangchen Xu, Luyao Niu, **Zhen Xiang**, Bhaskar Ramasubramanian, Bo Li, Radha Poovendran<br>
   The Association for Computational Linguistics (**ACL**), 2024.
@@ -83,6 +87,10 @@ author_profile: true
 
 
 ### Journal Papers
+
+* [Correcting the distribution of batch normalization signals for Trojan mitigation](https://www.sciencedirect.com/science/article/pii/S0925231224015236)<br>
+  Xi Li, **Zhen Xiang** (co-first author), David J. Miller, George Kesidis<br>
+  Neurocomputing, 2024.
 
 * BIC-based Mixture Model Defense against Data Poisoning Attacks on Classifiers: A Comprehensive Study<br>
   Xi Li, David J. Miller, **Zhen Xiang**, George Kesidis<br>
