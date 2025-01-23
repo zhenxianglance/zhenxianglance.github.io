@@ -22,6 +22,7 @@ I work on trustworthy machine learning, large foundation models, and AI agents. 
 
 News
 ======
+* 1/2025: One paper accepted by ICLR 2025.
 * 10/2024: One paper accepted by NeuroComputing.
 * 9/2024: Two papers accepted by NeurIPS 2024.
 * 8/2024: I am starting a new journey as an assistant professor at University of Georigia!
