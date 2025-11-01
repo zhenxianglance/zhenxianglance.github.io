@@ -14,11 +14,10 @@ I am an assistant professor in the [School of Computing](https://computing.uga.e
 
 I work on trustworthy machine learning, large foundation models, and AI agents. My recent research primarily focuses on AI agents powered by large foundation models, encompassing:
 
-* The deployment of AI agents in healthcare, autonomy, education, and scientific tasks.
+* The deployment of AI agents in healthcare, autonomy, education, and science.
 * The safety and security of AI agents in high-stakes applications.
 * The creation of guardrail agents tackling safety, privacy, and fairness issues within AI applications.
 
-**<span style="color: red"> I am looking for self-motivated PhD students for Fall 2025. If you are interested in working with me, please feel free to email me </span>**
 
 News
 ======
