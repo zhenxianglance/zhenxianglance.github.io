@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /group/
+author_profile: true
+---
+
 PhD Students
 
 <div class="row text-center">
