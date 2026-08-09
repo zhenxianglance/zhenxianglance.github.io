@@ -15,3 +15,7 @@ author_profile: true
 <div style="width: 180px;"> <a href="https://scholar.google.com/citations?user=3P4jAQEAAAAJ&hl=en"> <img src="/images/placeholder.jpg" class="img-circle" width="128" height="128" alt="Zixin Rao"> </a> <br> <a href="https://scholar.google.com/citations?user=3P4jAQEAAAAJ&hl=en"> Zixin Rao </a> </div>
 
 </div>
+
+## Alumni
+
+Joshua Alexander Konfrst (MS'2026)
