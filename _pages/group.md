@@ -7,7 +7,7 @@ author_profile: true
 
 ## PhD Students
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; text-align: center; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 60px; text-align: center; flex-wrap: nowrap;">
 
 <div style="width: 180px;"> <a href="https://jacobhhy.github.io/"> <img src="/images/placeholder.jpg" class="img-circle" width="128" height="128" alt="Haoyu He"> </a> <br> <a href="https://jacobhhy.github.io/"> Haoyu He </a> </div>
 
