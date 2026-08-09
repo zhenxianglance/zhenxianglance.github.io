@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Group"
 permalink: /group/
 author_profile: true
 ---
 
-PhD Students
+## PhD Students
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; text-align: center; flex-wrap: nowrap;">
 
