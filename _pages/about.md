@@ -12,11 +12,11 @@ Welcome to Zhen Xiang's homepage!
 
 I am an assistant professor in the [School of Computing](https://computing.uga.edu/) at the [University of Georgia](https://www.uga.edu/). Before that, I was a postdoc affiliated with the Secure Learning Lab (SLL) led by [Prof Bo Li](https://aisecure.github.io/) at the [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I received my B.E. in Electronics and Computer Engineering from [Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2014, my M.S. in Electrical Engineering from [University of Pennsylvania](https://www.upenn.edu/), and my Ph.D. in Electrical Engineering from [Pennsylvania State University](https://www.psu.edu/) supervised by [Prof David J. Miller](https://scholar.google.com/citations?user=0AvzzVoAAAAJ&hl=en) and [Prof George Kesidis](https://www.cse.psu.edu/~gik2/) in 2022.
 
-I work on trustworthy machine learning, large foundation models, and AI agents. My recent research primarily focuses on AI agents powered by large foundation models, encompassing:
+I work on trustworthy machine learning, large foundation models, and AI agents. My recent research primarily focuses on AI agents powered by large foundation models:
 
-* The deployment of AI agents in healthcare, autonomy, education, and science.
-* The safety and security of AI agents in high-stakes applications.
-* The creation of guardrail agents tackling safety, privacy, and fairness issues within AI applications.
+* Developing and deploying AI agents for healthcare, science, and education.
+* Identifying and understanding safety and security risks of AI agents in high-stakes applications.
+* Developing guardrails to address safety, privacy, and fairness challenges in AI applications.
 
 
 News
