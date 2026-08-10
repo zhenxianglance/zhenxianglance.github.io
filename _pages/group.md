@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 60px; text-align: center; flex-wrap: nowrap;">
 
-<div style="width: 180px;"> <a href="https://jacobhhy.github.io/"> <img src="/images/haoyu_profile.jpg" style="width: 128px; height: 128px; object-fit: cover; border-radius: 50%;" class="img-circle" width="128" height="128" alt="Haoyu He"> </a> <br> <a href="https://jacobhhy.github.io/"> Haoyu He </a> </div>
+<div style="width: 180px;"> <a href="https://jacobhhy.github.io/"> <img src="/images/haoyu_profile.png" style="width: 128px; height: 128px; object-fit: cover; border-radius: 50%;" class="img-circle" width="128" height="128" alt="Haoyu He"> </a> <br> <a href="https://jacobhhy.github.io/"> Haoyu He </a> </div>
 
 <div style="width: 180px;"> <a href="https://eddyluo.com/"> <img src="/images/weidi_profile.jpg" style="width: 128px; height: 128px; object-fit: cover; border-radius: 50%;" class="img-circle" width="128" height="128" alt="Weidi Luo"> </a> <br> <a href="https://eddyluo.com/"> Weidi Luo </a> </div>
 
